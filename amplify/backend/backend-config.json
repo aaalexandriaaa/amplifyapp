@@ -24,5 +24,11 @@
         }
       }
     }
+  },
+  "storage": {
+    "notesapp": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
